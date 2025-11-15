@@ -91,8 +91,3 @@ Instructions:
 This project is developed by Team Error404z for Smart India Hackathon 2025.
 
 ***
-
-For detailed documentation and references, refer to the full project PDF[1].
-
-Citations:
-[1] Error404z-TLC.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/88969593/592f08fc-4288-455e-959c-470653d5ed25/Error404z-TLC.pdf
