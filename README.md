@@ -82,10 +82,6 @@ Instructions:
 - **Reliability:** Heat shielding and EMI protection for components.
 - **Training:** Comprehensive modules provided for operator understanding.
 
-## References
-
-- [List of academic and technical references as cited in the project report][1].
-
 ## License
 
 This project is developed by Team Error404z for Smart India Hackathon 2025.
